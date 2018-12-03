@@ -1,0 +1,54 @@
+body{
+    margin: 60px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+input{
+    width: 60px;
+    height: 30px;
+    margin: 20px;
+    text-align: center;
+}
+
+form{
+    background-color:red;
+    border: solid 3px;
+    width: 500px;
+}
+
+table{
+    width: 400px;
+    bottom: 10%;
+    background-color: midnightblue;
+}
+
+b{
+    color: blue;
+}
+
+h3{
+    color: tan;
+    background-color:purple;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    top: 20px;
+}
+
+.calculator{
+    background-color: pink;
+    width: 400px;
+    right: 30%;
+}
+
+output{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+}
+
